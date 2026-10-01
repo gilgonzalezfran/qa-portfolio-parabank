@@ -4,9 +4,9 @@
 registered customer account to discover the main user flows, business
 rules and potential defects.
 
-**Date:**
+**Date:01/10/2026**
 **Duration:** 60 min
-**Environment:** parabank.parasoft.com · [browser + version]
+**Environment:** parabank.parasoft.com · [Google Chrome Versión 153.0.8010.55]
 **Tester:** Francisco José Gil González
 
 ## Areas covered
